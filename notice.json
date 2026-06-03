@@ -1,6 +1,6 @@
 {
   "id": "2026-06-04-welcome",
-  "active": false,
-  "title": "Scheduled Maintenance",
-  "message": "Velix servers are down for scheduled maintenance until 3 PM NZT. Streaming will be back shortly — thanks for your patience."
+  "active": true,
+  "title": "Currently Experiencing issues",
+  "message": "Our providers are currently experincing some issue, playback may not work at this time. Updates coming soon."
 }
